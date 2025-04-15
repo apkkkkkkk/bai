@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bai Costume Pattern Digital Resource Platform</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 10px;
+    }
+    h2 {
+      color: #34495e;
+    }
+    p {
+      margin: 10px 0 20px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #888;
+      border-top: 1px dashed #ccc;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Bai Costume Pattern Digital Resource Platform</h1>
+  
+  <p>
+    This prototype presents structured images and metadata of Bai ethnic costume patterns. Designed for teaching and research use, it supports browsing, downloading, and cultural design exploration. Built with GitHub Pages. Educational use only.
+  </p>
+
+  <h2>🔍 Platform Features</h2>
+  <ul>
+    <li>Classified browsing by pattern type, structure, and cultural meaning</li>
+    <li>Export in SVG / PNG / JPG formats for design use</li>
+    <li>Semantic metadata support for research and design reference</li>
+    <li>Lightweight, browser-based interface, suitable for classroom teaching</li>
+  </ul>
+
+  <h2>📁 Current Content Overview</h2>
+  <ul>
+    <li>Image samples: 400+</li>
+    <li>Metadata entries: Structured by pattern, function, meaning</li>
+    <li>Supports filtered access and manual download</li>
+  </ul>
+
+  <div class="footer">
+    © 2025 Research Prototype for Educational Use | Developed under limited resources for Bai cultural preservation.
+  </div>
+
+</body>
+</html>
